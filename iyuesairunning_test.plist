@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.10.113:8000/iyuesairunning.ipa</string>
+					<string>https://raw.githubusercontent.com/hecool108/WSRun/master/iyuesairunning.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
